@@ -5,7 +5,7 @@ import React from 'react';
 // 1. Categories
 const categories = [
   { name: "Earrings", image: "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?auto=format&fit=crop&q=80&w=400" },
-  { name: "Necklaces", image: "https://images.unsplash.com/photo-1599643478518-17488fbbcd75?auto=format&fit=crop&q=80&w=400" },
+  { name: "Necklaces", image: "https://images.unsplash.com/photo-1610661022658-5068c4d8f286?auto=format&fit=crop&q=80&w=400" },
   { name: "Bracelets", image: "https://images.unsplash.com/photo-1611591437281-460bfbe1220a?auto=format&fit=crop&q=80&w=400" },
   { name: "All Rings", image: "https://images.unsplash.com/photo-1605100804763-247f67b3557e?auto=format&fit=crop&q=80&w=400" },
   { name: "Engagement Rings", image: "https://images.unsplash.com/photo-1603561591411-07134e71a2a9?auto=format&fit=crop&q=80&w=400" },
@@ -14,8 +14,8 @@ const categories = [
 // 2. Latest Jewelry
 const latestJewelry = [
   "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?auto=format&fit=crop&q=80&w=500", // Woman necklace
-  "https://images.unsplash.com/photo-1603975762024-817e089d81d5?auto=format&fit=crop&q=80&w=500", // Man chain
-  "https://images.unsplash.com/photo-1543233604-3b84742a1976?auto=format&fit=crop&q=80&w=500", // Woman earrings
+  "https://images.unsplash.com/photo-1625908733875-efa9c75c084d?auto=format&fit=crop&q=80&w=500", // Man chain
+  "https://images.unsplash.com/photo-1617493255060-2745a8c22ebf?auto=format&fit=crop&q=80&w=500", // Woman earrings
 ];
 
 // 3. Reviews
@@ -27,8 +27,8 @@ const reviews = [
 
 // 4. Services
 const services = [
-  { title: "JEWELRY REPAIR", image: "https://images.unsplash.com/photo-1596918894677-22d765870029?auto=format&fit=crop&q=80&w=400" },
-  { title: "RING SIZING", image: "https://images.unsplash.com/photo-1615655406736-b37c4fabf923?auto=format&fit=crop&q=80&w=400" },
+  { title: "JEWELRY REPAIR", image: "https://images.unsplash.com/photo-1659032882703-f1e4983fe1b8?auto=format&fit=crop&q=80&w=400" },
+  { title: "RING SIZING", image: "https://plus.unsplash.com/premium_photo-1678834778658-9862d9987dd3?auto=format&fit=crop&q=80&w=400" },
   { title: "JEWELRY POLISHING", image: "https://images.unsplash.com/photo-1573408301185-9146fe634ad0?auto=format&fit=crop&q=80&w=400" },
 ];
 
